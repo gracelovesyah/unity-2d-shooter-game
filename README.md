@@ -3,7 +3,7 @@
 
 Delve into an action-packed 2D shooter experience developed in Unity. Journey through three captivating levels and level up as you dominate each stage. Immerse yourself in evolving challenges as you confront diverse enemies and obstacles.
 
-![Game Demo](ezgif.com-video-to-gif.gif)
+![Game Demo](shooter.gif)
 
 **Game Features:**
 
